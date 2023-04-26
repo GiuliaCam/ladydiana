@@ -1,4 +1,6 @@
 body {
     background-color: #1b1b32;
+    background-image: url(ladydianasfondo.png);
+    background-position: top center;
     font-family: Tahoma;
 }
