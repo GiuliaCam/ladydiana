@@ -6,6 +6,5 @@ body {
    position: relative;
    width: 100%;
    height: auto;
-   top: 50 px;
-   left: 16 px;
+   text-align: right ;
 }
