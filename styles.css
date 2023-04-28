@@ -1,6 +1,12 @@
 body {
-    background-color: red;
-    background-image: url(ladydianasfondo.png);
-    background-position: top center;
+    background-color: black;
     font-family: Tahoma;
+}
+.blocco1 {
+   position: relative;
+   width: 100%;
+   height: auto;
+   opacity: 0.3;
+   top: 16 px;
+   left: 16 px;
 }
