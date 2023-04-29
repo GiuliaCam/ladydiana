@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(53, 53, 53);
+}
+.blocco1 {
+    position: relative;
+    width: 100%;
+    height:auto;
+    text-align: center;
+}
