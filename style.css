@@ -1,5 +1,13 @@
 body {
     background-color: rgb(53, 53, 53);
+    border: 2px solid white;
+    margin: 50px;
+}
+
+.intestazione{
+    border: 2px solid white;
+    margin: 50px;
+    position:relative;
 }
 .blocco1 {
     position: relative;
